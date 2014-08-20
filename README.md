@@ -11,6 +11,7 @@ Setup
 1. Clone this repo: `git clone https://github.com/cooperhewitt/collection-elasticsearch.git`
 * Alongside this repo, clone our collection (this might take a while!): `git clone https://github.com/cooperhewitt/collection.git`
 * `brew install elasticsearch`
+* `pip install elasticsearch`
 * `elasticsearch`
 * `bin/index-objects.py`
 
