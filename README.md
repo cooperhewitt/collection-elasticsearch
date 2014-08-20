@@ -1,9 +1,9 @@
 collection-elasticsearch
 ===========
 
-Testing out [ElasticSearch](http://www.elasticsearch.org) as the search provider for the collection.
+Run your own [ElasticSearch](http://www.elasticsearch.org) search engine for the Cooper Hewitt's collection.
 
-Currently the indexing scripts assume that you have the [cooperhewitt/collection](https://github.com/cooperhewitt/collection/) repo checked out alongside this one. 
+The indexing code assume that you have the [cooperhewitt/collection](https://github.com/cooperhewitt/collection/) repo checked out alongside this one. 
 
 Setup
 ----------
