@@ -6,7 +6,6 @@ import csv
 import os
 import os.path
 import types
-import utils
 from elasticsearch import Elasticsearch
 
 es = Elasticsearch()
